@@ -1,0 +1,3 @@
+&lt;Directory /var/www/wordpress /&gt;
+ &nbsp;&nbsp;AllowOverride All
+&lt;/Directory&gt;
